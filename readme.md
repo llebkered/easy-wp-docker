@@ -146,5 +146,6 @@ Each level of indentation belongs to the one above.
 
 ## Links
 
+- YouTube tutorial: https://youtu.be/e7ISCKywAE4
 - WordPress Docker Image: https://hub.docker.com/_/wordpress
 - Blank WordPress Starter Theme: https://underscores.me/
